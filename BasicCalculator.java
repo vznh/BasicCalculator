@@ -1,5 +1,7 @@
-package starting;
-import java.util.Scanner;
+
+import java.util.Scanner; /* i realize when you put this in Eclipse IDE, it shows like 29 errors but still works as intended w/ no issue in any of the functions
+* but still works as intended w/ no issue in any of the functions
+*/
 
 public class BasicCalculator {
 	
